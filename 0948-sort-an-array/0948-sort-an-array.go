@@ -11,23 +11,25 @@ func sortArray(nums []int) []int {
 }
 
 func merge(left, right []int) []int {
-	combined := []int{}
+	combined := make([]int,len(left)+len(right))
 	i, j := 0, 0
 	for i < len(left) && j < len(right) {
 		if left[i] < right[j] {
-			combined = append(combined, left[i])
+			combined[i+j] = left[i]
             i++
 		} else {
-			combined = append(combined, right[j])
+			combined[i+j]= right[j]
             j++
 		}
 	}
 
-	if i < len(left) {
-		combined = append(combined, left[i:]...)
-	}
-	if j < len(right) {
-		combined = append(combined, right[j:]...)
-	}
+    for i < len(left){
+        combined[i+j] = left[i]
+            i++
+    }
+        for j< len(right){
+        combined[i+j] = right[j]
+            j++
+    }
 	return combined
 }
