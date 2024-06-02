@@ -4,7 +4,7 @@ func isAcronym(words []string, s string) bool {
 	}
 
 	for i, word := range words {
-		if len(word) == 0 || word[0] != s[i] {
+		if word[0] != s[i] {
 			return false
 		}
 	}
