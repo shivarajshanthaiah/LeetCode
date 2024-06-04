@@ -13,6 +13,7 @@
 # String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -28,6 +29,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
