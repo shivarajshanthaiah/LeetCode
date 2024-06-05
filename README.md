@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -17,6 +18,7 @@
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 # Two Pointers
@@ -32,6 +34,7 @@
 | [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 # Simulation
 |  |
