@@ -63,3 +63,11 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+# Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+# Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
