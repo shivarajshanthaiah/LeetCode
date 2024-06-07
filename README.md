@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
+| [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -46,11 +47,13 @@
 | [0015-3sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -71,3 +74,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+# Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
