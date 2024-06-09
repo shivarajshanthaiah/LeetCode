@@ -4,7 +4,7 @@ func findContentChildren(g []int, s []int) int {
 	i, j, count := 0, 0, 0
 
 	for i < len(g) && j < len(s) {
-		if g[i] <= s[j] {
+		if s[j] >= g[i] {
 			count++
 			i++
 		}
