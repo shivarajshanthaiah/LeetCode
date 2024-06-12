@@ -7,13 +7,23 @@
  * }
  */
 func searchBST(root *TreeNode, val int) *TreeNode {
-	if root == nil || root.Val == val {
+	if root == nil {
+		return nil
+	}
+
+	if root.Val == val {
 		return root
 	}
-	if root.Val < val {
-		return searchBST(root.Right, val)
-	} else if root.Val > val {
-		return searchBST(root.Left, val)
+
+	node := searchBST(root.Right, val)
+	if node != nil {
+		return node
 	}
-    return nil
+
+	node = searchBST(root.Left, val)
+	if node != nil {
+		return node
+	}
+
+	return nil
 }
