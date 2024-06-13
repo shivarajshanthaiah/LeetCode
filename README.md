@@ -94,10 +94,12 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0206-reverse-linked-list) |
 # Counting Sort
 |  |
 | ------- |
