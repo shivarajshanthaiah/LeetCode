@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0682-baseball-game) |
@@ -134,3 +135,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0136-single-number) |
