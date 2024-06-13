@@ -24,6 +24,7 @@
 | ------- |
 | [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
@@ -37,6 +38,7 @@
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -126,3 +128,7 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
