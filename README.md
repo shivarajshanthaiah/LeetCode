@@ -15,6 +15,7 @@
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -64,12 +65,14 @@
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
 | ------- |
