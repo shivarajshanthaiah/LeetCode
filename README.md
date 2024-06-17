@@ -43,6 +43,7 @@
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -116,6 +117,7 @@
 # Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0944-smallest-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0944-smallest-range-i) |
 # Prefix Sum
 |  |
@@ -132,6 +134,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 # Binary Tree
 |  |
