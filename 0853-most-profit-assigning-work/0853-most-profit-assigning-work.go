@@ -8,9 +8,7 @@ func maxProfitAssignment(difficulty []int, profit []int, worker []int) int {
 	})
 
 	sort.Ints(worker)
-	count := 0
-	maxProf := 0
-	temp := 0
+	count, temp, maxProf := 0, 0, 0
 
 	for i := 0; i < len(worker); i++ {
 		for temp < len(jobs) && jobs[temp][0] <= worker[i] {
