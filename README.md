@@ -22,6 +22,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Simulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Math
 |  |
 | ------- |
