@@ -18,10 +18,6 @@ func deleteMiddle(head *ListNode) *ListNode {
 		fast = fast.Next.Next
 		slow = slow.Next
 	}
-	if prev != nil {
-		prev.Next = slow.Next
-	} else {
-		head = head.Next
-	}
+	prev.Next = slow.Next
 	return head
 }
