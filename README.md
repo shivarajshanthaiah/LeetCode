@@ -23,6 +23,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -55,6 +56,7 @@
 | [0953-reverse-only-letters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [1137-height-checker](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Greedy
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 # Binary Tree
 |  |
 | ------- |
