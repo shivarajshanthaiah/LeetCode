@@ -147,6 +147,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -174,10 +176,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Memoization
 |  |
 | ------- |
