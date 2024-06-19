@@ -130,6 +130,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0944-smallest-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0944-smallest-range-i) |
+| [1236-n-th-tribonacci-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Prefix Sum
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -174,3 +176,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1236-n-th-tribonacci-number) |
