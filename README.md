@@ -18,6 +18,7 @@
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -144,6 +145,7 @@
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Binary Tree
 |  |
 | ------- |
