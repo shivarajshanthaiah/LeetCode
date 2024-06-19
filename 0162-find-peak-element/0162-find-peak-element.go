@@ -1,14 +1,12 @@
 func findPeakElement(nums []int) int {
-	for i := 1; i < len(nums)-1; i++ {
-		if nums[i-1] < nums[i] && nums[i] > nums[i+1] {
-			return i
+	left, right := 0, len(nums)-1
+	for left < right {
+		mid := (left + right) / 2
+		if nums[mid] > nums[mid+1] {
+			right = mid
+		} else {
+			left = mid + 1
 		}
 	}
-	var maxIn int
-	for i := 0; i < len(nums)-1; i++ {
-		if nums[i] < nums[i+1] {
-			maxIn = i + 1
-		}
-	}
-	return maxIn
+	return left
 }
