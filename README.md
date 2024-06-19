@@ -152,6 +152,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -190,3 +191,7 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
