@@ -12,7 +12,7 @@ func oddEvenList(head *ListNode) *ListNode {
 	eHead := head.Next
 	oddHead := head
 	evenHead := head.Next
-	for oddHead.Next != nil && evenHead.Next != nil {
+	for evenHead != nil && evenHead.Next != nil {
 		oddHead.Next = evenHead.Next
 		oddHead = oddHead.Next
 		evenHead.Next = oddHead.Next
