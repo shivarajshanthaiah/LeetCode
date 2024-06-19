@@ -141,6 +141,7 @@
 # Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 # Binary Search Tree
 |  |
@@ -152,6 +153,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 # Dynamic Programming
 |  |
@@ -161,3 +163,11 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0136-single-number) |
+# Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
