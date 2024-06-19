@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0682-baseball-game) |
@@ -152,6 +153,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
