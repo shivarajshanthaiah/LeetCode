@@ -4,18 +4,16 @@ func minDays(bloomDay []int, m int, k int) int {
 	}
 	left := 1
 	right := math.MaxInt32
-	res := -1
 
-	for left <= right {
+	for left < right {
 		mid := left + (right-left)/2
 		if canMake(bloomDay, m, k, mid) {
-			res = mid
-			right = mid - 1
+			right = mid
 		} else {
 			left = mid + 1
 		}
 	}
-	return res
+	return left
 }
 
 func canMake(bloomday []int, m, k, maxDays int) bool {
