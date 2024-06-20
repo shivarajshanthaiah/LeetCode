@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -206,6 +207,7 @@
 # Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 # Design
 |  |
