@@ -196,12 +196,14 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Memoization
 |  |
@@ -220,3 +222,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
