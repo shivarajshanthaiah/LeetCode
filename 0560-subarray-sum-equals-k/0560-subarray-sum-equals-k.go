@@ -1,7 +1,6 @@
 func subarraySum(nums []int, k int) int {
 	countFreq := make(map[int]int)
-	sum := 0
-	count := 0
+	sum, count := 0, 0
 
 	for _, num := range nums {
 		sum += num
