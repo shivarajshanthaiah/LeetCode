@@ -16,6 +16,7 @@
 | [0907-koko-eating-bananas](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0944-smallest-range-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
@@ -71,6 +72,7 @@
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Stack
 |  |
@@ -233,4 +236,5 @@
 # Sliding Window
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
