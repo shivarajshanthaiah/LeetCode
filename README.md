@@ -24,6 +24,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -77,6 +78,7 @@
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 # Simulation
@@ -149,6 +151,7 @@
 | [0944-smallest-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0944-smallest-range-i) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -238,3 +241,4 @@
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
