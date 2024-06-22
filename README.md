@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0682-baseball-game) |
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -69,6 +70,7 @@
 | [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
@@ -148,6 +150,7 @@
 # Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 # Stack
 |  |
