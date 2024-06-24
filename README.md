@@ -25,6 +25,7 @@
 | [1217-relative-sort-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
