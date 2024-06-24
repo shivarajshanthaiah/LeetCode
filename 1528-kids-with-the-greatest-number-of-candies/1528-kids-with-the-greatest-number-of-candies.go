@@ -5,12 +5,12 @@ func kidsWithCandies(candies []int, extraCandies int) []bool {
 			greatest = candy
 		}
 	}
-	res := make([]bool, len(candies))
+	res := []bool{}
 	for i := 0; i < len(candies); i++ {
 		if candies[i]+extraCandies >= greatest {
-			res[i] = true
+			res = append(res, true)
 		} else {
-			res[i] = false
+			res = append(res, false)
 		}
 	}
 	return res
