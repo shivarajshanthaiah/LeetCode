@@ -171,6 +171,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -181,6 +182,7 @@
 | [0278-first-bad-version](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -195,6 +197,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -212,6 +215,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
