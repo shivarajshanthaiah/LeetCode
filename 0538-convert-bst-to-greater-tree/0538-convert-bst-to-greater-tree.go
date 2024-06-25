@@ -8,16 +8,16 @@
  */
 func convertBST(root *TreeNode) *TreeNode {
 	sum := 0
-	inOrder(root, &sum)
-	return root
-}
-
-func inOrder(node *TreeNode, sum *int) {
-	if node == nil {
-		return
+	var traverse func(node *TreeNode)
+	traverse = func(node *TreeNode) {
+		if node == nil {
+			return
+		}
+		traverse(node.Right)
+		sum += node.Val
+		node.Val = sum
+		traverse(node.Left)
 	}
-	inOrder(node.Right, sum)
-	node.Val += *sum
-	*sum = node.Val
-	inOrder(node.Left, sum)
+	traverse(root)
+	return root
 }
