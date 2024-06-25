@@ -172,6 +172,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Binary Search Tree
 |  |
@@ -184,6 +185,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -194,6 +196,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Dynamic Programming
 |  |
@@ -210,6 +213,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 # Breadth-First Search
 |  |
