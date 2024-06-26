@@ -113,6 +113,7 @@
 | [0561-array-partition](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0561-array-partition) |
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Heap (Priority Queue)
 |  |
@@ -177,6 +178,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [0853-most-profit-assigning-work](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0853-most-profit-assigning-work) |
 | [0907-koko-eating-bananas](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -204,6 +207,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -257,3 +262,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1138-grumpy-bookstore-owner](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
