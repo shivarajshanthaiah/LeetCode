@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1916-find-center-of-star-graph](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1916-find-center-of-star-graph) |
 # Sliding Window
 |  |
 | ------- |
