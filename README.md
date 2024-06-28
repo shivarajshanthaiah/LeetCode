@@ -42,6 +42,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -59,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0633-sum-of-square-numbers) |
