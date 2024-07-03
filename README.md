@@ -284,6 +284,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
