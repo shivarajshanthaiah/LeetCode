@@ -1,8 +1,8 @@
 func passThePillow(n int, time int) int {
 	if time < n {
-		return time+1
+		return time + 1
 	}
-    
+
 	increasing := true
 	res := 1
 	for i := 1; i <= time; i++ {
