@@ -5,11 +5,11 @@ func pivotIndex(nums []int) int {
 	}
 
 	leftSum := 0
-	for i := range nums {
-		if sum-leftSum-nums[i] == leftSum {
-			return i
+	for key, val := range nums {
+		if sum-leftSum-val == leftSum {
+			return key
 		} else {
-			leftSum += nums[i]
+			leftSum += val
 		}
 	}
 	return -1
