@@ -1,28 +1,16 @@
-type Queue struct {
-	items []int
-}
-
-func (q *Queue) Enqueue(i int) {
-	q.items = append(q.items, i)
-}
-
-func (q *Queue) Dequeue() int {
-	deq := q.items[0]
-	q.items = q.items[1:]
-	return deq
-}
-
 func findTheWinner(n int, k int) int {
-	q := &Queue{[]int{}}
+	queue := []int{}
 	for i := 1; i <= n; i++ {
-		q.Enqueue(i)
+		queue = append(queue, i)
 	}
 
-	for len(q.items) > 1 {
-		for j := 0; j < k-1; j++ {
-			q.Enqueue(q.Dequeue())
+	for len(queue) > 1 {
+		for i := 1; i < k; i++ {
+			front := queue[0]
+			queue = queue[1:]
+			queue = append(queue, front)
 		}
-		q.Dequeue()
+		queue = queue[1:]
 	}
-	return q.items[0]
+	return queue[0]
 }
