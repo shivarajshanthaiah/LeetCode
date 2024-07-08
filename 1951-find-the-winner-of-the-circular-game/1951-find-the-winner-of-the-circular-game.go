@@ -1,4 +1,7 @@
 func findTheWinner(n int, k int) int {
+    if k == 1{
+        return n
+    }
 	queue := []int{}
 	for i := 1; i <= n; i++ {
 		queue = append(queue, i)
