@@ -348,6 +348,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -362,4 +363,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
