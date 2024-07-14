@@ -289,6 +289,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1293-three-consecutive-odds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -351,6 +353,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -358,6 +361,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Recursion
 |  |
