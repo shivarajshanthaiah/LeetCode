@@ -3,11 +3,12 @@ func maxOperations(nums []int, k int) int {
 	i, j, count := 0, len(nums)-1, 0
 
 	for i < j {
-		if nums[i]+nums[j] == k {
+		sum := nums[i] + nums[j]
+		if sum == k {
 			count++
 			i++
 			j--
-		} else if nums[i]+nums[j] < k {
+		} else if sum < k {
 			i++
 		} else {
 			j--
