@@ -7,9 +7,9 @@ func findMissingAndRepeatedValues(grid [][]int) []int {
 		}
 	}
 
-	n := len(grid) * len(grid)
+	n := len(grid)
 	repeat, missing := 0, 0
-	for i := 1; i <= n; i++ {
+	for i := 1; i <= n*n; i++ {
 		if nums[i] == 2 {
 			repeat = i
 		}
