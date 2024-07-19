@@ -299,6 +299,7 @@
 | [1833-find-the-highest-altitude](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
