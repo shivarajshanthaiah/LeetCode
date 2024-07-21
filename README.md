@@ -301,6 +301,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -313,6 +314,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
@@ -400,6 +402,7 @@
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Matrix
 |  |
 | ------- |
