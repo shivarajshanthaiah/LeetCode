@@ -281,6 +281,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0011-container-with-most-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -433,6 +434,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -462,6 +464,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -474,4 +477,9 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
