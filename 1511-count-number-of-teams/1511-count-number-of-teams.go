@@ -7,7 +7,7 @@ func numTeams(rating []int) int {
 			sec = rating[j]
 			for k := j + 1; k < len(rating); k++ {
 				th = rating[k]
-				if fir > sec && sec > th || fir < sec && sec < th {
+				if (fir > sec && sec > th) || (fir < sec && sec < th) {
 					count++
 				}
 			}
