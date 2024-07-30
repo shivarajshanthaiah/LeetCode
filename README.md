@@ -418,6 +418,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
