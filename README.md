@@ -334,6 +334,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1511-count-number-of-teams](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
@@ -499,6 +501,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
 | ------- |
