@@ -295,6 +295,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1196-filling-bookcase-shelves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1511-count-number-of-teams](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -332,6 +333,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1196-filling-bookcase-shelves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
