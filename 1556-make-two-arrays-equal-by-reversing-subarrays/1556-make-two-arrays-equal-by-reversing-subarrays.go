@@ -1,7 +1,4 @@
 func canBeEqual(target []int, arr []int) bool {
-	if len(target) == 1 {
-		return target[0] == arr[0]
-	}
 	sort.Ints(target)
 	sort.Ints(arr)
 
@@ -11,6 +8,10 @@ func canBeEqual(target []int, arr []int) bool {
 func equal(a, b []int) bool {
 	if len(a) != len(b) {
 		return false
+	}
+
+	if len(a) == 1 {
+		return a[0] == b[0]
 	}
 
 	for i := range a {
