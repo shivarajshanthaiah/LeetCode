@@ -1,6 +1,5 @@
 func rangeSum(nums []int, n int, left int, right int) int {
 	sum := []int{}
-	mod := 1_000_000_007
 	for i := 0; i < len(nums); i++ {
 		currSum := nums[i]
 		sum = append(sum, currSum)
@@ -12,7 +11,7 @@ func rangeSum(nums []int, n int, left int, right int) int {
 	sort.Ints(sum)
 	ans := 0
 	for i := left - 1; i < right; i++ {
-		ans = (ans + sum[i]) % mod
+		ans += sum[i]
 	}
-	return ans
+	return ans % (1000000000 + 7)
 }
