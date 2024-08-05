@@ -8,11 +8,12 @@ func kthDistinct(arr []string, k int) string {
 		unique[s]++
 	}
 
+	dCount := 0
 	for _, s := range arr {
 		if unique[s] == 1 {
-			k--
+			dCount++
 		}
-		if k == 0 {
+		if dCount == k {
 			return s
 		}
 	}
