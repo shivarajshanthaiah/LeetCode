@@ -511,12 +511,14 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -528,6 +530,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
