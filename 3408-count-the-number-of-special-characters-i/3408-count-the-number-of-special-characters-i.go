@@ -8,7 +8,7 @@ func numberOfSpecialChars(word string) int {
 
 	countMap := make(map[rune]bool)
 	for _, char := range word {
-		if 'a' <= char && char <= 'z' {
+		if char >= 'a' && char <= 'z' {
 			if _, ok := charMap[char-('a'-'A')]; ok {
 				if !countMap[char] {
 					count++
