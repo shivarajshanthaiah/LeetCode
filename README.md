@@ -314,6 +314,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -335,6 +336,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -420,6 +422,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
