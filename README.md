@@ -338,6 +338,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -423,6 +424,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -455,6 +457,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
