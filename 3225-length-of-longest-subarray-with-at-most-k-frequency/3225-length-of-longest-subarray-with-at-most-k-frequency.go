@@ -9,10 +9,8 @@ func maxSubarrayLength(nums []int, k int) int {
 			freq[nums[j]]--
 			j++
 		}
-		if i-j+1 > ans {
-			ans = i - j + 1
-		}
-        i++
+		ans = max(i-j+1, ans)
+		i++
 	}
 	return ans
 }
