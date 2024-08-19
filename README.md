@@ -400,6 +400,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2752-sum-multiples](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
