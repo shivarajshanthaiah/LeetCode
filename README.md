@@ -296,6 +296,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1196-filling-bookcase-shelves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -330,6 +331,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-increasing-decreasing-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1472-increasing-decreasing-string) |
@@ -453,6 +455,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1472-increasing-decreasing-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1524-string-matching-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1524-string-matching-in-an-array) |
