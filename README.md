@@ -534,6 +534,7 @@
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -545,6 +546,7 @@
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -564,6 +566,7 @@
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
@@ -585,5 +588,10 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
