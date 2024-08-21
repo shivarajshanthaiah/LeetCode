@@ -363,6 +363,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -412,6 +413,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
