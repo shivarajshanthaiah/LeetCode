@@ -18,5 +18,6 @@ func isValid(root *TreeNode, min, max int) bool {
 	if root.Val <= min || root.Val >= max {
 		return false
 	}
+    
 	return isValid(root.Left, min, root.Val) && isValid(root.Right, root.Val, max)
 } 
