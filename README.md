@@ -394,6 +394,7 @@
 | [0011-container-with-most-water](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
@@ -401,6 +402,7 @@
 | ------- |
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2571-find-the-pivot-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2571-find-the-pivot-integer) |
