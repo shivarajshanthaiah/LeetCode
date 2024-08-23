@@ -13,6 +13,6 @@ func topKFrequent(nums []int, k int) []int {
 	sort.Slice(unique, func(i, j int) bool {
 		return freq[unique[i]] > freq[unique[j]]
 	})
-    
+
 	return unique[:k]
 }
