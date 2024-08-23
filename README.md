@@ -405,6 +405,7 @@
 | [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2571-find-the-pivot-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2645-pass-the-pillow](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2752-sum-multiples) |
