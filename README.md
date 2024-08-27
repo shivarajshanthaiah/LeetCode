@@ -286,6 +286,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -497,6 +498,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Brainteaser
 |  |
@@ -559,6 +561,7 @@
 | [0100-same-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -569,6 +572,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -615,4 +619,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
