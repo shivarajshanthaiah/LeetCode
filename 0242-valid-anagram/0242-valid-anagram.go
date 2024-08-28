@@ -1,5 +1,5 @@
 func isAnagram(s string, t string) bool {
-	if len(s) < len(t) {
+	if len(s) != len(t) {
 		return false
 	}
 	map1 := make(map[rune]int)
