@@ -1,17 +1,19 @@
 func isAnagram(s string, t string) bool {
-	chars := make([]int, 26)
+	if len(s) < len(t) {
+		return false
+	}
+	map1 := make(map[rune]int)
+	map2 := make(map[rune]int)
 
-	for _, v := range s {
-		i := int(v - 'a')
-		chars[i]++
+	for _, ch := range s {
+		map1[ch]++
+	}
+	for _, ch := range t {
+		map2[ch]++
 	}
 
-	for _, v := range t {
-		i := int(v - 'a')
-		chars[i]--
-	}
-	for _, v := range chars {
-		if v != 0 {
+	for key, _ := range map1 {
+		if map1[key] != map2[key] {
 			return false
 		}
 	}
