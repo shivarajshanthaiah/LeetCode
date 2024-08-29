@@ -1,5 +1,5 @@
 func containsDuplicate(nums []int) bool {
-	dup := make(map[int]int)
+	dup := make(map[int]int, len(nums))
 	for _, v := range nums {
 		dup[v]++
 	}
@@ -7,6 +7,7 @@ func containsDuplicate(nums []int) bool {
 	for _, v := range dup {
 		if v > 1 {
 			return true
+            break
 		}
 	}
 	return false
