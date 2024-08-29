@@ -7,7 +7,6 @@ func containsDuplicate(nums []int) bool {
 	for _, v := range dup {
 		if v > 1 {
 			return true
-            break
 		}
 	}
 	return false
