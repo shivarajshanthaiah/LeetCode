@@ -380,6 +380,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -494,6 +495,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -644,6 +646,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
