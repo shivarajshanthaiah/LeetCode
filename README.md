@@ -597,6 +597,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -610,6 +611,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -633,6 +635,7 @@
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -641,6 +644,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Stack
 |  |
 | ------- |
