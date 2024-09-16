@@ -297,6 +297,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0948-sort-an-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -405,6 +406,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
