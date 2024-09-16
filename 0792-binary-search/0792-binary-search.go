@@ -1,12 +1,5 @@
 func search(nums []int, target int) int {
 
-	if len(nums) == 1 {
-		if nums[0] == target {
-			return 0
-		}
-		return -1
-	}
-
 	left, right := 0, len(nums)-1
 
 	for left <= right {
