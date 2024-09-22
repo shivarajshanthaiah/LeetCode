@@ -468,6 +468,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
