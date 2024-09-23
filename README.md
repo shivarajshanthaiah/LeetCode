@@ -473,6 +473,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
