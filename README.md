@@ -327,6 +327,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -506,6 +507,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2102-find-the-middle-index-in-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2571-find-the-pivot-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Recursion
 |  |
