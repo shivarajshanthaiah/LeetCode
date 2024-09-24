@@ -335,6 +335,7 @@
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -369,6 +370,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -554,6 +556,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -717,4 +720,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
