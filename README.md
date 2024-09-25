@@ -322,6 +322,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -365,6 +366,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -460,6 +462,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -574,6 +577,7 @@
 | [1472-increasing-decreasing-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Matrix
