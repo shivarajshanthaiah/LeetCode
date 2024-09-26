@@ -298,6 +298,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0890-lemonade-change) |
@@ -420,6 +421,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0729-my-calendar-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -737,4 +739,16 @@
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
