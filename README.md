@@ -647,6 +647,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -664,6 +665,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -675,6 +677,7 @@
 | [0200-number-of-islands](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -693,6 +696,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
@@ -704,6 +708,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Stack
 |  |
