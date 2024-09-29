@@ -413,6 +413,7 @@
 | [0647-palindromic-substrings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0961-long-pressed-name](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -552,6 +553,7 @@
 | [0742-to-lower-case](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-long-pressed-name](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0961-long-pressed-name) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
