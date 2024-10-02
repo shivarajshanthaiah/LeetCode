@@ -310,6 +310,7 @@
 | [1168-duplicate-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1196-filling-bookcase-shelves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -360,6 +361,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1256-rank-transform-of-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -442,6 +444,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
