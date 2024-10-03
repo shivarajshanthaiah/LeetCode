@@ -484,6 +484,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -507,6 +508,7 @@
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -534,6 +536,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -762,6 +765,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
