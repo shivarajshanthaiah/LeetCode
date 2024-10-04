@@ -337,6 +337,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -376,6 +377,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -421,6 +423,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -455,6 +458,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
