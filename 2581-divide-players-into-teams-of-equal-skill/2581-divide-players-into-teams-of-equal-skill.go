@@ -1,15 +1,8 @@
 func dividePlayers(skill []int) int64 {
-	sum := 0
-	for _, v := range skill {
-		sum += v
-	}
 
-	if (sum*2) % len(skill) != 0 {
-		return -1
-	}
-
-	target := (sum * 2) / len(skill)
-	sort.Ints(skill)
+    sort.Ints(skill)
+    n := len(skill)
+	target := skill[0] + skill[n-1]
 
 	ans := 0
 	for i := 0; i < len(skill)/2; i++ {
