@@ -513,6 +513,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -588,6 +589,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -749,6 +751,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
