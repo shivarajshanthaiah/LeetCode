@@ -1,11 +1,10 @@
 func findLHS(nums []int) int {
-	maxLen := 0
 	count := make(map[int]int)
-
 	for _, num := range nums {
 		count[num]++
 	}
 
+	maxLen := 0
 	for key, val := range count {
 		curLen := 0
 		if count[key+1] > 0 {
