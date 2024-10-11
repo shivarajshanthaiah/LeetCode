@@ -1,5 +1,5 @@
 func findLHS(nums []int) int {
-	res := 0
+	maxLen := 0
 	count := make(map[int]int)
 
 	for _, num := range nums {
@@ -7,9 +7,15 @@ func findLHS(nums []int) int {
 	}
 
 	for key, val := range count {
+		curLen := 0
 		if count[key+1] > 0 {
-			res = max(res, val+count[key+1])
+			curLen = val + count[key+1]
 		}
+
+		if curLen > maxLen {
+			maxLen = curLen
+		}
+
 	}
-	return res
+	return maxLen
 }
