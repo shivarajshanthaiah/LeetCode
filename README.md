@@ -324,6 +324,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -376,6 +377,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -461,6 +463,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -478,6 +481,7 @@
 | [0890-lemonade-change](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
@@ -615,6 +619,7 @@
 | [1472-increasing-decreasing-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
