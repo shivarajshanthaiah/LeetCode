@@ -1,8 +1,4 @@
 func checkSubarraySum(nums []int, k int) bool {
-	if len(nums) < 2 {
-		return false
-	}
-
 	Map := make(map[int]int)
 	Map[0] = -1
 	sum := 0
