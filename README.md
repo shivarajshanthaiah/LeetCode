@@ -435,6 +435,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -485,6 +486,7 @@
 | [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3195-separate-black-and-white-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -605,6 +607,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
