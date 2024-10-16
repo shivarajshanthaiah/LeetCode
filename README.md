@@ -384,6 +384,7 @@
 | [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1904-second-largest-digit-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -601,6 +602,7 @@
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1904-second-largest-digit-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
