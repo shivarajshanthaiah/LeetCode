@@ -8,8 +8,7 @@ func secondHighest(s string) int {
 		}
 	}
 
-	Max := math.MinInt
-	SecMax := math.MinInt
+	Max, SecMax := math.MinInt, math.MinInt
 
 	for key, _ := range nums {
 		if key > Max {
