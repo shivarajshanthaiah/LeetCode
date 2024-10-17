@@ -5,7 +5,6 @@ func areOccurrencesEqual(s string) bool {
 	}
 
 	freqVal := freq[rune(s[0])]
-
 	for _, v := range freq {
 		if v != freqVal {
 			return false
