@@ -385,6 +385,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -604,6 +605,7 @@
 | [1764-maximum-repeating-substring](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1904-second-largest-digit-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1923-sentence-similarity-iii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
@@ -631,6 +633,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Matrix
