@@ -15,8 +15,8 @@ func longestSquareStreak(nums []int) int {
 			streak++
 			curr = curr * curr
 		}
-		if streak > 1 {
-			maxStreak = max(maxStreak, streak)
+		if streak > maxStreak {
+			maxStreak = streak
 		}
 	}
 	if maxStreak > 1 {
