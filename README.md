@@ -607,6 +607,7 @@
 | [0680-valid-palindrome-ii](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0961-long-pressed-name) |
@@ -807,6 +808,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Hash Function
