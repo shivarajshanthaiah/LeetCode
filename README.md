@@ -347,6 +347,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -398,6 +399,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -464,6 +466,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -490,6 +493,7 @@
 | [2502-sort-the-people](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -503,6 +507,7 @@
 | [1448-maximum-69-number](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1448-maximum-69-number) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Math
