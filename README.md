@@ -357,6 +357,7 @@
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3429-special-array-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -529,6 +530,7 @@
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3462-vowels-game-in-a-string](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
@@ -556,6 +558,7 @@
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
@@ -693,6 +696,7 @@
 | [0347-top-k-frequent-elements](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/shivarajshanthaiah/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shivarajshanthaiah/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
